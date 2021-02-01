@@ -1,5 +1,7 @@
 # Mestre dos Códigos - Análise de Negócios
 
+Extrair arquivo .zip em uma pasta para que os link's de imagens funcionem corretamente.
+
 ## Prova
 
 **Mestre dos Códigos:** Análise de Negócios
