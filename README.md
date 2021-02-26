@@ -1,7 +1,5 @@
 # Mestre dos Códigos - Análise de Negócios
 
-Extrair arquivo .zip em uma pasta para que os link's de imagens funcionem corretamente.
-
 ## Prova
 
 **Mestre dos Códigos:** Análise de Negócios
@@ -78,16 +76,33 @@ Extrair arquivo .zip em uma pasta para que os link's de imagens funcionem corret
 
 1. Dado que você tenha realizado toda a análise de um projeto com característica de [escopo fechado](https://www.projectbuilder.com.br/blog/quais-os-desafios-e-as-dificuldades-de-projetos-de-escopo-fechado/) , e durante o desenvolvimento, o desenvolvedor aponta a necessidade de realizar uma alteração nos requisitos (por conta de uma regra que você tenha elicitado). Qual seria a sua conduta neste caso?
 
-**Resposta:** Neste caso eu iria analisar o cenário exposto pelo Desenvolvedor, validar todo o contexto e discutir com os stakeholders sobre uma possível alteração nos requisitos devido a regra de negócios não mapeada anteriormente, lembrando que a gestão sempre deverá negociar com o cliente sobre o ocorrido e mostrar os pontos bons e ruins desta alteração.
+**Resposta:** Neste caso eu iria analisar o cenário exposto pelo Desenvolvedor, validar todo o contexto e discutir com os stakeholders sobre uma possível alteração nos requisitos devido a regra de negócios não mapeada anteriormente, com isso levar até a gestão para realizar um alinhamento com o cliente sobre o ocorrido e mostrar os pontos positivos e negativos desta alteração, tais pontos podem contemplar aumento de escopo, aumento de custo, aumento de estimativas, troca de funcionalidades para execução entre outros. Após definido todos os pontos de alteração seria necessário registrar essa negociação para que não ocorra problemas futuros de execução do projeto.
 
 
 
 2. Dado que você tenha realizado toda a análise de um projeto com característica de escopo fechado, e durante a etapa de desenvolvimento, o Cliente aponta a necessidade de realizar uma alteração nos requisitos. Qual seria a sua conduta neste caso?
 
-**Resposta:** Neste caso eu iria analisar o cenário exposto pelo Cliente, validar se esta funcionalidade ou regra já foi contemplada de alguma forma, expor os riscos e benefícios desta alteração e solicitar o alinhamento entre a gestão do projeto para alterações de contrato.
+**Resposta:** Neste caso eu iria analisar o cenário exposto pelo Cliente, validar se esta funcionalidade ou regra já foi contemplada de alguma forma, expor os riscos e benefícios desta alteração e solicitar o alinhamento entre a gestão do projeto para alterações de contrato. Assim como mencionado na questão anterior deveria realizar um registro de todo o alinhamento realizado para evitar futuros problemas na execução do projeto.
 
 
 
 3. Durante o processo de elicitação, você identifica que existe um conflito de interesses entre os Stakeholders do projeto. Neste caso, o que você faria?
 
-**Resposta:** Dado que em meio ao processo de elicitação ocorra conflitos de interesses entre os envolvidos, eu como analista de negócios irei intermediar todo o cenário para que possamos avaliar todas as opiniões, validar as informações abordadas, procurar a melhor alternativa e propor uma solução que tenha menos impacto e maior aderência entre as partes, pois nunca seremos perfeitos, mas podemos negociar sempre.
+**Resposta:** Dado que em meio ao processo de elicitação ocorra conflitos de interesses entre os envolvidos, eu como analista de negócios irei avaliar todas as opiniões, validar as informações abordadas, procurar a melhor alternativa e propor uma solução que tenha menos impacto e maior aderência entre as partes, caso o conflito seja recorrente então será levado até a gestão para tomar ações que resolva o desacordo entre as partes e proporcionar uma definição de negócio para que o projeto possa continuar em desenvolvimento.
+
+
+
+
+
+
+
+## Correções Efetuadas
+
+
+
+**PVB:** Substituir a palavra Prova/Questões Personalizadas por outras palavras de mesmo contexto; Corrigir palavra Ensino;
+
+**Requisito NF:** Melhorar o detalhamento das mensagens e seus padrões como cores, fontes, tamanhos entro outros;
+
+**Questões Abertas:** Adicionar ação de registrar e oficializar as ações tomadas; Adicionar negociação de alçadas para conflitos recorrentes; Citar na decisão tomadas se haverá absorção do escopo, aumento do escopo cliente pagando mais, ou troca de um item por outro
+
